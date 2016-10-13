@@ -11,7 +11,7 @@ namespace comp229_home_Lesson1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+           HelloLabel.Text = "Hi Hina";
         }
     }
 }
